@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ali-f%c4%b1rat-kaya/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ali-f%c4%b1rat-kaya/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ali-f%c4%b1rat-kaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-f%c4%b1rat-kaya" height="30" width="40" /></a>
 <a href="https://instagram.com/alifiratx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alifiratx" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/watch?v=0sovcwfmrta&t=2302s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/watch?v=0sovcwfmrta&t=2302s" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@alifrat1708" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@alifrat1708" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/afkaya48300" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="afkaya48300" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/afrat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="afrat" height="30" width="40" /></a>
 </p>
