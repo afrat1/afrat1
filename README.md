@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Gebze Technical University**
 
-- 🌱 I’m currently learning **Python API**
+- 🌱 I’m currently learning **Machine Learning**
 
 - 📫 How to reach me **https://www.linkedin.com/in/ali-firat-kaya/**
 
